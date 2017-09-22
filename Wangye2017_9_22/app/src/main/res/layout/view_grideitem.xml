@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <com.example.administrator.wangye2017_9_22.utils.RoundImageView
+        android:id="@+id/item_grideimage"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:padding="1dp"
+        android:background="@drawable/usericon_bg_circle"
+        />
+</LinearLayout>
